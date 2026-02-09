@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "My chains",
+  "base_artist": "FES☆TIVE",
+  "createdAt": "2026-02-09T06:54:49.189301Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Draggin' My Chains",
+      "artist": "Pam Tillis",
+      "has_synced": false,
+      "path": "select/01_Draggin'_My_Chains_Pam_Tillis.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "All My Chains",
+      "artist": "Lil Uzi Vert",
+      "has_synced": true,
+      "path": "select/02_All_My_Chains_Lil_Uzi_Vert.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Amazing Grace (My Chains Are Gone)",
+      "artist": "Pentatonix",
+      "has_synced": true,
+      "path": "select/03_Amazing_Grace_(My_Chains_Are_Gone)_Pentatonix.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Rockin All My Chains On",
+      "artist": "DJ Khaled feat. Birdman, Bun B & Soulja Boy Tell 'Em",
+      "has_synced": true,
+      "path": "select/04_Rockin_All_My_Chains_On_DJ_Khaled_feat._Birdman,_Bun_B_&_Soulja_Boy_Tell_'Em.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Rockin All My Chains On (Feat. Birdman, Bun B, Soulja Boy Tell Em)",
+      "artist": "DJ Khaled",
+      "has_synced": true,
+      "path": "select/05_Rockin_All_My_Chains_On_(Feat._Birdman,_Bun_B,_Soulja_Boy_Tell_Em)_DJ_Khaled.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Amazing Grace (My Chains Are Gone)",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/06_Amazing_Grace_(My_Chains_Are_Gone)_Various_Artists.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Amazing Grace (My Chains Are Gone)",
+      "artist": "Chris Tomlin",
+      "has_synced": true,
+      "path": "select/07_Amazing_Grace_(My_Chains_Are_Gone)_Chris_Tomlin.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Amazing Grace (My Chains Are Gone)",
+      "artist": "Chris Tomlin",
+      "has_synced": true,
+      "path": "select/08_Amazing_Grace_(My_Chains_Are_Gone)_Chris_Tomlin.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Amazing Grace (My Chains Are Gone)",
+      "artist": "Chris Tomlin",
+      "has_synced": true,
+      "path": "select/09_Amazing_Grace_(My_Chains_Are_Gone)_Chris_Tomlin.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Rockin All My Chains On (feat. Birdman, Bun B & Soulja Boy Tell ‘Em)",
+      "artist": "DJ Khaled",
+      "has_synced": false,
+      "path": "select/10_Rockin_All_My_Chains_On_(feat._Birdman,_Bun_B_&_Soulja_Boy_Tell_‘Em)_DJ_Khaled.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Rockin All My Chains On",
+      "artist": "DJ Khaled",
+      "has_synced": false,
+      "path": "select/11_Rockin_All_My_Chains_On_DJ_Khaled.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Amazing Grace (My Chains Are Gone)",
+      "artist": "Pentatonix",
+      "has_synced": true,
+      "path": "select/12_Amazing_Grace_(My_Chains_Are_Gone)_Pentatonix.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Amazing Grace (My Chains Are Gone)",
+      "artist": "BYU Noteworthy",
+      "has_synced": true,
+      "path": "select/13_Amazing_Grace_(My_Chains_Are_Gone)_BYU_Noteworthy.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Amazing Grace (My Chains Are Gone) [Live]",
+      "artist": "Shane & Shane",
+      "has_synced": true,
+      "path": "select/14_Amazing_Grace_(My_Chains_Are_Gone)_[Live]_Shane_&_Shane.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Amazing Grace (My Chains Are Gone)",
+      "artist": "Maranatha! Music",
+      "has_synced": false,
+      "path": "select/15_Amazing_Grace_(My_Chains_Are_Gone)_Maranatha!_Music.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Amazing Grace (My Chains Are Gone)",
+      "artist": "Worship Together",
+      "has_synced": true,
+      "path": "select/16_Amazing_Grace_(My_Chains_Are_Gone)_Worship_Together.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Break My Chains",
+      "artist": "Sarah Connor",
+      "has_synced": true,
+      "path": "select/17_Break_My_Chains_Sarah_Connor.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "My chains",
+      "artist": "FES☆TIVE",
+      "has_synced": false,
+      "path": "select/pl_01_My_chains_FES☆TIVE.txt"
+    }
+  ]
+}
